@@ -1,0 +1,8 @@
+[team]
+name = "JupyterHub"
+display_name = "VEDA/JupyterHub"
+github_org = "NASA-IMPACT"
+github_repo = "veda-jupyterhub"
+site_url = "nasa-impact.github.io/veda-jupyterhub"
+objectives_page_url = "https://nasa-impact.github.io/veda-jupyterhub/objectives"
+token_env_var = "GH_VEDA_JH_PAT"
