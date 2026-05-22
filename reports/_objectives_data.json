@@ -1,0 +1,99 @@
+{
+  "pi-26.3": [
+    {
+      "issue_number": 110,
+      "title": "JH 26.3 Objective 1 - Improve hub start experience for users",
+      "state": "open",
+      "state_reason": null,
+      "contributors": [
+        [
+          "Yuvi",
+          "yuvipanda"
+        ],
+        [
+          "Tarashish Mishra",
+          "sunu"
+        ]
+      ],
+      "repos": []
+    },
+    {
+      "issue_number": 111,
+      "title": "JH 26.3 Objective 4 - Keycloak group design",
+      "state": "open",
+      "state_reason": null,
+      "contributors": [
+        [
+          "Yuvi",
+          "yuvipanda"
+        ],
+        [
+          "Tarashish Mishra",
+          "sunu"
+        ]
+      ],
+      "repos": []
+    },
+    {
+      "issue_number": 112,
+      "title": "JH 26.3 Objective 3 - Storage quotas viewer rollout",
+      "state": "open",
+      "state_reason": null,
+      "contributors": [
+        [
+          "Tarashish Mishra",
+          "sunu"
+        ],
+        [
+          "Jenny Wong",
+          "jnywong"
+        ]
+      ],
+      "repos": [
+        [
+          "2i2c-org",
+          "jupyterhub-usage-quotas"
+        ]
+      ]
+    },
+    {
+      "issue_number": 113,
+      "title": "JH 26.3 Objective 2 - Roll out latest version of JupyterHub Fancy Profiles",
+      "state": "open",
+      "state_reason": null,
+      "contributors": [
+        [
+          "Sanjay Bhangar",
+          "batpad"
+        ],
+        [
+          "Tarashish Mishra",
+          "sunu"
+        ]
+      ],
+      "repos": [
+        [
+          "2i2c-org",
+          "jupyterhub-fancy-profiles"
+        ],
+        [
+          " jupyterhub",
+          "kubespawner"
+        ]
+      ]
+    },
+    {
+      "issue_number": 115,
+      "title": "JH 26.3 - Ongoing support and maintenance of hubs",
+      "state": "open",
+      "state_reason": null,
+      "contributors": [
+        [
+          "Yuvi",
+          "yuvipanda"
+        ]
+      ],
+      "repos": []
+    }
+  ]
+}
