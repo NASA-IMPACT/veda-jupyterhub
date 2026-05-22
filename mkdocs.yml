@@ -1,0 +1,10 @@
+site_name: VEDA Jupyterhub
+nav:
+  - "index.md"
+  - PI Objectives: "objectives.md"
+
+theme:
+  name: material
+
+plugins:
+  - search
