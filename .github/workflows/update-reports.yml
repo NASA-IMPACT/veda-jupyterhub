@@ -1,0 +1,16 @@
+name: Update Reports
+on:
+  schedule:
+    - cron: '0 8 * * 1'   # (08:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  reports:
+    uses: NASA-IMPACT/dse-oss-reports/.github/workflows/reports.yml@v0.2.0
+    permissions:
+      contents: write
+      pull-requests: write
+    with:
+      dse-oss-reports-ref: v0.2.0   # pin to a tag/SHA — never to a moving branch
+    secrets:
+      pat: ${{ secrets.GH_VEDA_JH_PAT }}   # secret name is up to you; the workflow sees it as `pat`
