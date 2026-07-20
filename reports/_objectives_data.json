@@ -20,8 +20,8 @@
     {
       "issue_number": 111,
       "title": "JH 26.3 Objective 4 - Keycloak group design",
-      "state": "open",
-      "state_reason": null,
+      "state": "closed",
+      "state_reason": "completed",
       "contributors": [
         [
           "Yuvi",
@@ -37,8 +37,8 @@
     {
       "issue_number": 112,
       "title": "JH 26.3 Objective 3 - Storage quotas viewer rollout",
-      "state": "open",
-      "state_reason": null,
+      "state": "closed",
+      "state_reason": "completed",
       "contributors": [
         [
           "Tarashish Mishra",
@@ -59,8 +59,8 @@
     {
       "issue_number": 113,
       "title": "JH 26.3 Objective 2 - Roll out latest version of JupyterHub Fancy Profiles",
-      "state": "open",
-      "state_reason": null,
+      "state": "closed",
+      "state_reason": "completed",
       "contributors": [
         [
           "Sanjay Bhangar",
@@ -85,8 +85,8 @@
     {
       "issue_number": 115,
       "title": "JH 26.3 - Ongoing support and maintenance of hubs",
-      "state": "open",
-      "state_reason": null,
+      "state": "closed",
+      "state_reason": "completed",
       "contributors": [
         [
           "Yuvi",
